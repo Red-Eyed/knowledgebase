@@ -23,7 +23,7 @@ Host webdav_server
 ## Client: mount directory
 
 ### Windows
-1. Open File Explored : `Windows+E`
+1. Open File Explorer : `Win+E`
 2. Right click on `This PC` -> `Map Network Drive`
 3. Select drive letter
 4. In folder, enter `http://localhost:600012`
