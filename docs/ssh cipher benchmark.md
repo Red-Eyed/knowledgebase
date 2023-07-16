@@ -6,4 +6,9 @@ ssh -c $i $USER@localhost \
 done
 ```
 
+To make it work on localhost without passwords, you can add hosts' public key to autorized_keys:
+```bash
+cat ~/.ssh/id_rsa.pub >> ~/.ssh/authorized_keys
+```
+
 #ssh #cipher 
