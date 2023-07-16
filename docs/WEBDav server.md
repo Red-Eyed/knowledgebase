@@ -10,7 +10,7 @@
 
 Place next snippet to `~/.ssh/config`. If this file doesn't exist: create it  
 ```
-Host webdav_host
+Host webdav_server
   HostName 192.168.1.55 # ip of server
   User user 
   LocalForward 60020 localhost:60020 # port which will be forwarded from server to client
