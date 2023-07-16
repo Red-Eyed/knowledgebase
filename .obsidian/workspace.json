@@ -15,7 +15,7 @@
               "state": {
                 "file": "README.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -27,7 +27,7 @@
               "state": {
                 "file": "README.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -39,7 +39,7 @@
               "state": {
                 "file": "docs/SSH.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -51,7 +51,7 @@
               "state": {
                 "file": "README.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -63,7 +63,7 @@
               "state": {
                 "file": "docs/Tools.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -75,7 +75,7 @@
               "state": {
                 "file": "README.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -87,7 +87,7 @@
               "state": {
                 "file": "docs/Tools.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -99,7 +99,7 @@
               "state": {
                 "file": "README.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -111,7 +111,7 @@
               "state": {
                 "file": "docs/Tools.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -122,8 +122,8 @@
               "type": "markdown",
               "state": {
                 "file": "docs/WEBDav server.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -257,9 +257,15 @@
   },
   "active": "a6aced9ef389f612",
   "lastOpenFiles": [
+    "attachements/Pasted image 20230716175200.png",
+    "attachements/Pasted image 20230716175200 - Copy.png",
+    "attachements/icons8-windows-11-32.png",
+    "docs/WEBDav server.md",
+    "attachements/icons8-windows-11-32 1.png",
+    "attachements",
+    "icons8-windows-11-32.png",
     "docs/Tools.md",
     "README.md",
-    "docs/WEBDav server.md",
     "docs/ssh cipher benchmark.md",
     "docs/ssh jump server.md",
     "docs/ssh-copy-id for windows.md",

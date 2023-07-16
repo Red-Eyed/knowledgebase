@@ -26,7 +26,7 @@ Host webdav_server
 1. Open File Explorer : `Win+E`
 2. Right click on `This PC` -> `Map Network Drive`
 3. Select drive letter
-4. In folder, enter `http://localhost:600012`
-
+4. Enter: `http://localhost:60020` In the `Folder:`
+![](../attachements/Pasted%20image%2020230716175200.png)
 ### Linux
 TBD: I don't need webdav for linux, there is `sshfs`
