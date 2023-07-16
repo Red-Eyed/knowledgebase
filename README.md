@@ -1,1 +1,1 @@
-# knowledgebase
+- [[SSH]]
