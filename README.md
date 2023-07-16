@@ -1,1 +1,1 @@
-- [[SSH]]
+- [SSH](docs/SSH.md)
