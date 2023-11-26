@@ -1,5 +1,5 @@
 # Secure VNC over SSH on headless linux server via web browser
-![image](https://github.com/Red-Eyed/knowledgebase/assets/11485451/c542ed88-9140-4267-ab3e-52ab3f178f50)
+![](../attachements/vnc_in_browser.png)
 
 This guide provides instructions for setting up a secure VNC server on a headless linux server via web browser using SSH port forwarding.
 
