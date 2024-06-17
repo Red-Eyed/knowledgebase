@@ -1,5 +1,6 @@
-There is no `ssh-copy-id` on Windows.  
+There is no `ssh-copy-id` on Windows.\
 Here is `ssh-copy-id` in `PowerShell` (don't forget to change `USER` and `HOST` values):
+
 ```shell
 type ~/.ssh/id_rsa.pub | `
 ssh USER@HOST `
